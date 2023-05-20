@@ -1,0 +1,24 @@
+#main{
+    text-align: center;
+    margin: 20px auto;
+    max-width: 500px;
+    max-height: 500px;}
+  
+    #title{
+      font-size: 20px;}
+  #img-div{
+    margin: 15px;
+    padding: 6px auto;}
+  
+    #image{
+      margin: 0 auto;
+      height: auto;
+      display: block;
+      max-width: 100%;
+      justify-content: center;}
+  #img-caption{
+    font-size: 10px;
+    font-style: italy;
+    
+  }
+  

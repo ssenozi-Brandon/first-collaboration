@@ -1,0 +1,35 @@
+#main {
+    text-align: center;
+    margin: 20px auto;
+    max-width: 600px;
+  }
+  
+  #title {
+    font-size: 28px;
+  }
+  
+  #img-div {
+    margin: 20px 0;
+  }
+  
+  #image {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  #img-caption {
+    font-style: italic;
+    margin-top: 10px;
+  }
+  
+  #tribute-info {
+    margin-bottom: 20px;
+  }
+  
+  #tribute-link {
+    color: blue;
+    text-decoration: none;
+  }
+  
